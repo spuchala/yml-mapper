@@ -1,0 +1,5 @@
+com/example/utils/TableMapper.class
+com/example/services/PersonService.class
+com/example/utils/YamlPropertySourceFactory.class
+com/example/ExampleApplication.class
+com/example/controllers/PersonController.class
